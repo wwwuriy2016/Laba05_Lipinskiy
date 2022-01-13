@@ -1,0 +1,10 @@
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\bin\Debug\Laba05_Lipinskiy.exe.config
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\bin\Debug\Laba05_Lipinskiy.exe
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\bin\Debug\Laba05_Lipinskiy.pdb
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.Form1.resources
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.Properties.Resources.resources
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.exe
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.pdb
+C:\Users\dariy\source\repos\Laba05_Lipinskiy\Laba05_Lipinskiy\obj\Debug\Laba05_Lipinskiy.csproj.AssemblyReference.cache
